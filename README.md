@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me - well not everything about me...
 
 <!--
 **reinhard-brandstaedter/reinhard-brandstaedter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Besides my real work, I'm an engineer. I like trying new stuff and automating things that I do not like to do twice or repeatedly. As I'm generally a perfectionist (or at least try to be) I hate it when things do not work to my liking. Then I either try fixing it, or discard it.
+
+On my github profile you will find various things, old an new, work-related or private! Everything I do I like to share! I'm taking feedback but always expect a respecting exchange/give and take.
